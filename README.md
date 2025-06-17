@@ -6,4 +6,4 @@ I’m also an open source enthusiast and have contributed to several projects, i
 
 The best way to reach me is via [LinkedIn](https://www.linkedin.com/in/biao-he/) or [SGLang Slack](https://app.slack.com/client/T0652SSCVMG).
 
-![Biao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebiao064&hide=contribs,prs)
+![Biao's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebiao064&show_icons=true)
